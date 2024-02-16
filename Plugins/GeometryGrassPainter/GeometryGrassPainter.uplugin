@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GeometryGrassPainter",
+	"Description": "A geometry grass painter tool that creates stylized grass through a grass shader",
+	"Category": "Other",
+	"CreatedBy": "Mohammed Bajaman",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GeometryGrassPainter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
